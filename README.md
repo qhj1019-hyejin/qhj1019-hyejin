@@ -1,6 +1,5 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E1,100:FFB6C1&height=100&section=header)
-
+### Hi there 👋
 <!--
 **qhj1019-hyejin/qhj1019-hyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
