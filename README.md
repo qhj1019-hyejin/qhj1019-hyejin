@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=30&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyejin+Github+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=30&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyejin+Github)](https://git.io/typing-svg)
 
 #### Follow me 
 <div style="display:flex; flex-direction:row;">
