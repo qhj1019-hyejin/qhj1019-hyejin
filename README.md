@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1BEE7,100:FFB6C1&height=100&section=header&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=30&duration=4000&pause=2000&color=AB47BC&random=false&width=435&lines=welcome+to+hyejin+Github+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=30&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyejin+Github+👋)](https://git.io/typing-svg)
 
-#### Contact 
+#### Follow me 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:kwonbe99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
