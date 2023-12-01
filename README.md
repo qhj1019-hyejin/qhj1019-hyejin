@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1BEE7,100:FFB6C1&height=90&text=welcome%20to%20hyejin%20Github%20✨&fontSize=30&section=header&animation=fadeIn&fontAlignY=80&fontColor=AB47BC)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E1BEE7,100:FFB6C1&height=90&section=header&animation=fadeIn&fontAlignY=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=30&duration=4000&pause=2000&color=AB47BC&random=false&width=435&lines=welcome+to+hyejin+Github+%E2%9C%A8)](https://git.io/typing-svg)
+
 <!--
 **qhj1019-hyejin/qhj1019-hyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
