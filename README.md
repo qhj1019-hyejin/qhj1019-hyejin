@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=40&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyejin+Github)](https://git.io/typing-svg)
 
 ## Tech Stack
