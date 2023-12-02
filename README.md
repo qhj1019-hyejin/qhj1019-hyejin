@@ -27,4 +27,4 @@
   <a href="mailto:hj31523026@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hj31523026@gmail.com"/></a>
 </div><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=material-palenight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhj1019-hyejin&theme=material-palenight&show_icons=true)
