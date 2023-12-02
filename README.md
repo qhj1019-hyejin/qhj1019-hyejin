@@ -1,20 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=30&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyejin+Github)](https://git.io/typing-svg)
 
-#### Follow me 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:kwonbe99@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://velog.io/@qhj1019">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <!-- <a href="https://open.kakao.com/o/sGFzzbsf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a> -->
-</div><br>
+<h3 align="left">Follow Me</h3>
+<p align="left">
+  <a href="https://velog.io/@qhj1019"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@qhj1019"/></a>&nbsp
+  <a href="https://open.kakao.com/me/HyeJin_P"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black&link=https://open.kakao.com/me/HyeJin_P"/></a>&nbsp
+  <a href="mailto:hj31523026@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hj31523026@gmail.com"/></a>
+</p>
 <!--
 **qhj1019-hyejin/qhj1019-hyejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
