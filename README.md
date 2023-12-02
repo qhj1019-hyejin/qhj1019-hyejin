@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F3E5F5,100:CE93D8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=40&duration=4000&pause=2000&color=B39DDB&random=false&width=435&lines=welcome+to+hyejin+Github)](https://git.io/typing-svg)
 
