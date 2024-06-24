@@ -12,7 +12,7 @@
     <br>
     <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>&nbsp
